@@ -65,3 +65,28 @@
 
 
 
+// const age = 12;
+
+// if (age > 10) {
+//     console.log("apni melay jete parben")
+// } else {
+//     console.log("sorry, apnar boyos kom fire jan")
+// }
+
+
+// let age = 17;
+// let withAdult = true;
+
+// if (age >= 15) {
+//     console.log("apni melay jete parben")
+//     if (withAdult) {
+//         console.log("apni vuter bari jete parben")
+//     }
+//     else {
+//         console.log("vuter bari jere parben na")
+//     }
+// }
+// else {
+//     console.log("apni melay jete parben na")
+// }
+
