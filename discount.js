@@ -38,3 +38,33 @@
 //         console.log("Entry Allowed");
 //     }
 // }
+
+
+
+let day = 3;
+
+switch (day) {
+    case 1:
+        console.log("Monday");
+        break;
+
+        case 2:
+            console.log("Tuesday");
+            break;
+
+            case 3:
+                console.log("Wednesday");
+                break;
+                default:
+                    console.log("Invalid day");
+}
+
+
+let username = "John";
+let password = "12345";
+
+if (username === "John" && password === "12345") {
+    console.log("Login successful");
+}else {
+    console.log("Invalid username or password");
+}
