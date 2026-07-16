@@ -1,4 +1,4 @@
-const isLoggedIn = false;
+// const isLoggedIn = false;
 
 
 
@@ -22,3 +22,4 @@ const isLoggedIn = false;
 // if (number) {
 //     console.log('number is truthy')
 // }
+
