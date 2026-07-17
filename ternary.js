@@ -16,17 +16,17 @@ const age = 20;
 
 // age >= 18 ? console.log('Please VOTE'):console.log('Grow Up Kid')
 
-let price = 500;
-const isLeader = true;
+// let price = 500;
+// const isLeader = true;
 
-// if (isLeader) {
-//     price = 0;
-// }
-// else {
-//     price = price + 100;
-// }
+// // if (isLeader) {
+// //     price = 0;
+// // }
+// // else {
+// //     price = price + 100;
+// // }
 
-// console.log('Price is:', price);
+// // console.log('Price is:', price);
 
-price = isLeader ? 0 : price + 100;
-console.log('price now :',  price);
+// price = isLeader ? 0 : price + 100;
+// console.log('price now :',  price);
