@@ -1,18 +1,18 @@
-const money = 10000;
+// const money = 10000;
 
-if (money > 500) {
-    console.log('mama tui to borolok. amare khawa')
+// if (money > 500) {
+//     console.log('mama tui to borolok. amare khawa')
 
-    if(money > 1000) {
-        console.log('tui ki tuition er beton paicis')
-        if (money > 5000) {
-            console.log('tui to amr apon bahi')
-        }
-        else{
-            console.log('you have between 1000-5000');
-        }
-    }
-}
-else{
-    console.log('amar kono boroloks bondhu nai')
-}
+//     if(money > 1000) {
+//         console.log('tui ki tuition er beton paicis')
+//         if (money > 5000) {
+//             console.log('tui to amr apon bahi')
+//         }
+//         else{
+//             console.log('you have between 1000-5000');
+//         }
+//     }
+// }
+// else{
+//     console.log('amar kono boroloks bondhu nai')
+// }

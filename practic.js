@@ -184,3 +184,82 @@
 // }
 
 
+// const isLoggedIn = true;
+// const isAdmin = true;
+
+// if(isLoggedIn) {
+//     if(isAdmin) {
+//         console.log('Admin Dashboard')
+//     }
+//     else{
+//         console.log('User Dashboard')
+//     }
+// }
+// else {
+//     console.log('Please Login')
+// }
+
+
+// const number = 55;
+// const even = number % 2 === 0? 'even' : 'odd';
+// console.log('number is:' , even);
+
+// const price = 5000;
+// const isPrice = price > 1000 ? "Expensive": Affordable;
+// console.log(isPrice);
+
+// const permission = false;
+// const hasPermission = !permission ? "Access Denied": "Not Granted";
+// console.log(hasPermission)
+
+
+// Using isOnline, use the NOT operator to print "User is offline".
+// const user = false;
+// const isOnline = !user ? "User is offline": 'wrong';
+// console.log(isOnline);
+
+
+//  simple discount system
+// const cartTotal = 1000;
+// const isMember = false;
+// const discount = 20;
+// const discount2 = 10;
+
+
+// if(cartTotal > 1000 && isMember === true) {
+//     const applyDiscount = cartTotal / 100 * discount;
+//     const discountAmount = cartTotal - applyDiscount;
+//     console.log(discountAmount)
+
+// }
+// else if(cartTotal > 1000) {
+//    const  applyDiscount2 = cartTotal / 100 * 10;
+//    const discountAmount2 = cartTotal - applyDiscount2;
+//    console.log(discountAmount2)
+// }
+// else{
+//     console.log("no discount")
+// }
+
+
+
+
+// const userName = "admin";
+// const password = 'admin123';
+// const userRole = 'admin';
+// const isActive = true;
+
+// if(userName === 'admin' && password === 'admin123') {
+//     if(userRole === 'admin') {
+//         console.log('Welcome Admin')
+//     }
+//     else{
+//         console.log('User Dashboard')
+//     }
+//     const accountStatus = isActive ? "Active" : "Inactive";
+//     console.log('Account Status:', accountStatus);
+// }
+// else{
+//     console.log("Invalid username or password")
+// }
+
