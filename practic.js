@@ -263,3 +263,195 @@
 //     console.log("Invalid username or password")
 // }
 
+
+
+
+// again rivision 
+
+// const a = 50;
+// const b = 20;
+
+// console.log(a > b);
+// console.log(a < b);
+// console.log(a == b);
+// console.log(a != b);
+// console.log(a >= b);
+// console.log(a <= b);
+
+
+// const age = 22;
+
+// if (age > 18) {
+//     console.log("Adult");
+// }
+
+// const marks = 35;
+
+// if (marks >= 40) {
+//     console.log("pass")
+// }
+// else {
+//     console.log("Fail");
+// }
+
+
+
+// const number = -25;
+
+// if (number > 0) {
+//     console.log("Positive")
+// }else if (number < 0) {
+//     console.log("Negative")
+// }
+// else {
+//     console.log("Zero")
+// }
+
+
+// const number = 27;
+
+// if (number % 2 === 0) {
+//     console.log("even")
+// }
+// else {
+//     console.log("odd")
+// }
+
+
+// const year = 2028;
+
+// if (year % 4 === 0) {
+//     console.log("Leap Year")
+// }
+// else {
+//     console.log("no Leap year")
+// }
+
+
+// const userName = "admin";
+// const password = "12345";
+
+// if (userName === "admin" && password === "12345") {
+//     console.log("Login Successful")
+// }
+// else{
+//     console.log("Invalid Login")
+// }
+
+
+
+// const ticket = true;
+// const age = 20;
+
+// if (ticket === true && age >=18) {
+//     console.log("Entry Allowed")
+// }
+// else {
+//     console.log("Not Allowed")
+// }
+
+
+// const isRaining = true;
+
+// if (isRaining) {
+//     console.log("Take Umbrella")
+// }
+// else{
+//     console.log("Enjoy your day")
+// }
+
+
+// const price = 25000;
+
+// if (price > 10000) {
+//     console.log("Expensive")
+// }
+// else {
+//     console.log("Affordable")
+// }
+
+
+// const bmi = 18;
+
+// if (bmi < 18) {
+//     console.log("Underweight")
+// }
+// else if (bmi < 24) {
+//     console.log("Normal")
+// }
+// else if (bmi < 29) {
+//     console.log("OverWeight")
+// }
+// else {
+//     console.log("Obese")
+// }
+
+
+
+// const marks = 85;
+
+// if (marks > 90) {
+//     console.log("A+")
+// }
+// else if (marks > 80) {
+//     console.log("A")
+// }
+// else if (marks > 70) {
+//     console.log("B")
+// }
+// else if (marks > 60) {
+//     console.log("C")
+// }
+// else if (marks > 50) {
+//     console.log("D")
+// }
+// else {
+//     console.log("Fail")
+// }
+
+
+const month = "January";
+
+// if (month === "December || month === "January" || month === "February"){
+
+//     }
+
+// if (month === "December" || month === "January" || month === "February"){
+//     console.log("Winter")
+// }
+// else if (month === "March" || month === "April" || month === "May") {
+//     console.log("Spring")
+// }
+// else if (month === "September" || month === "October" || month === "November") {
+//     console.log("Autumn")
+// }
+// else{
+//     console.log("Invalid Month")
+// }
+
+
+
+
+const hasId = true;
+const age = 17;
+
+// if (hasId){
+//     if(age >=18){
+//         console.log("Eligible")
+//     }
+//     else {
+//         console.log("Not Eligible")}
+// }
+// else{
+//     console.log("Not Eligible")
+// }
+
+
+// if (hasId && age >= 18) {
+//     console.log("Eligible")
+// }
+// else {
+//     console.log("Not Eligible")
+// }
+
+
